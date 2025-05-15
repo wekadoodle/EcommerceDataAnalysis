@@ -34,7 +34,3 @@ The datasets used in this project are sourced from the [Looker Ecommerce BigQuer
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-You can update your `README.md` file with this content. Let me know if there's anything else you'd like to adjust!
